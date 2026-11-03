@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933909252561",
+    "project_id": "jopkp-notifikasi",
+    "storage_bucket": "jopkp-notifikasi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933909252561:android:5bbb4e1bb6cf282fca78f0",
+        "android_client_info": {
+          "package_name": "com.example.jobkp_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB48kX8PTe9zBG-2DLJdeDVSaPBjrqdSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
